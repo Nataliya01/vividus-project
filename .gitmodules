@@ -1,0 +1,3 @@
+[submodule "vividus-sample-tests"]
+	path = vividus-sample-tests
+	url = https://github.com/Nataliya01/vividus-sample-tests
